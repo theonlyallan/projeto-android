@@ -132,10 +132,10 @@ header>p {
     font-size: 1.2em;
     color: white;
     margin: auto;
-    max-width: 500px;
+    max-width: 620px;
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px hwb(0 0% 100% / 0.549);
 
 }
